@@ -1,0 +1,115 @@
+[
+  {
+    "name": "AGT Petroleum",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [8.05521525710373, 125.13447523251347]
+    }
+  },
+  {
+    "name": "Caltex",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [8.05563752034916, 125.13424456254018]
+    }
+  },
+  {
+    "name": "JACC Fuel",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [8.051831429539783, 125.13106687965553]
+    }
+  },
+  {
+    "name": "Petron",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [8.055677356479457, 125.1346737159719]
+    }
+  },
+
+  {
+    "name": "RM C Petrol",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [8.049653694650557, 125.12655003974254]
+    }
+  },
+  {
+    "name": "JC Petron",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [8.053882340921266, 125.13876967970681]
+    }
+  },
+  {
+    "name": "Phoenix Aglayan",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [8.0535666328871, 125.13638595178533]
+    }
+  },
+  {
+    "name": "AIIJI Gasoline Station",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [7.999843104012447, 125.02408862698952]
+    }
+  },
+  {
+    "name": "PLC Fuel",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [7.998786556100821, 125.02162482872723]
+    }
+  },
+  {
+    "name": "M & Y Gasoline Station",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [7.998889733623608, 125.02709328198134]
+    }
+  },
+  {
+    "name": "Gas Station",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [7.997488549055633, 125.02927272388578]
+    }
+  },
+  {
+    "name": "Phoenix Gasoline Station",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [8.002893586434311, 125.010119681997]
+    }
+  },
+  {
+    "name": "NIPA GASOLINE STATION",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [8.02581809234537, 124.98959219411508]
+    }
+  },
+  {
+    "name": "Aiji Fuel",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [8.049655528783429, 124.8968426879019]
+    }
+  },
+  {
+    "name": "RC Fuel",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [8.047666711539001, 124.89337121276185]
+    }
+  },
+  {
+    "name": "UELZONE",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [8.049572396988523, 124.8912256459768]
+    }
+  }
+]

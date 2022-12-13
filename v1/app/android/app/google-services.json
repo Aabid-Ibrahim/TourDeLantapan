@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186960663126",
+    "project_id": "tourdelantapan-a7d07",
+    "storage_bucket": "tourdelantapan-a7d07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186960663126:android:02646a7ae1fc936f4d21f7",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186960663126-n7lqn8l0bho5luf39themhvcmsvv0ond.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNJF49nnM3ZQepOZL1ZC1sWjIO8xeZ1H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186960663126-n7lqn8l0bho5luf39themhvcmsvv0ond.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
